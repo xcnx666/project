@@ -1,0 +1,24 @@
+# 深度学习框架 (兼容 Python 3.13)
+# torch==2.6.0
+# torchvision==0.19.0
+# torchaudio==2.6.0
+ultralytics==8.4.21
+ 
+# 计算机视觉 (兼容 Python 3.13)
+opencv-python==4.9.0.80
+numpy==1.26.0
+Pillow==10.2.0
+ 
+# OCR 识别
+paddlepaddle==2.6.2
+paddleocr==2.7.0
+ 
+# Web 框架
+flask==3.0.0
+flask-cors==4.0.0
+ 
+# 其他工具包
+requests==2.31.0
+matplotlib==3.8.0
+scipy==1.11.4
+ 
